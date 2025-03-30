@@ -140,8 +140,22 @@ A Work Breakdown Structure (WBS), is a hierarchical decomposition of the project
 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
     
 9. How can clearly defining the problem help in developing a more effective software solution?
-    - Improves Resource Allocation – Helps teams prioritize time, budget, and effort effectively.
+    -  Ensures that developers understand the core issue and don't waste time on unnecessary features.
+    -  Reduces unplanned features  from being introduced mid-development.
+    -  Allows developers, designers, and stakeholders to align on the expected outcome.
 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+    - By stating the challenge it addresses,the benefits it has and why the problem is important.
+    - By highlighting the core benefits of the software.
+    - By emphasizing the impacts it brings rather than its features.
+      
 11. What are the main features or functionalities that make your software stand out?
 12. What data is available regarding the market size and growth potential for your software?
 13. How can understanding market trends inform your software’s positioning and development?
+    -  Market trends reveal what users struggle with and what they expect from new solutions which 
+       ensures your software solves real problems and remains relevant.
+    -  Market trends expose gaps in existing solutions and highlight areas for differentiation that 
+       uniquely position your software making it more appealing to customers.
+    -  Market trends influence customer spending habits and expectations for pricing models which 
+       enables you to align your software’s pricing with industry standards makes it more attractive 
+       and competitive.
+    
